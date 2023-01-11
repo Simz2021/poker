@@ -1,4 +1,4 @@
-Create a database
+Create a mysql database
 
 Configure your .env file
 
